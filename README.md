@@ -12,6 +12,7 @@ Spring Data JPA
 Maven
 JSP
 MySQL
+
 #To run this project 
 =========================
 1.create the database 
