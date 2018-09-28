@@ -17,7 +17,6 @@ MySQL
 #To run this project 
 --------------------
 1.create the database 
-----------------------
 Host: localhost 
 Database: cs544 
 -----------------------
